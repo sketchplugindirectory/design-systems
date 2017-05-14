@@ -1,0 +1,91 @@
+
+- title: Material Design (Google)
+  commands:
+    - name: Home
+      url: https://material.io/
+    - name: Guide Lines
+      url: https://material.io/guidelines/
+    - name: Icons
+      url: https://material.io/icons/
+    - name: "-"
+    - name: Download UI Kit
+      url: https://storage.googleapis.com/material-design/publish/material_v_11/assets/0Bzhp5Z4wHba3U1JmRzdsNlo5NTQ/stickersheet_components_20170314.sketch
+
+- title: Polaris (Shopify)
+  commands:
+    - name: Home
+      url: https://polaris.shopify.com/
+    - name: Principles
+      url: https://polaris.shopify.com/principles/principles
+    - name: Content
+      url: https://polaris.shopify.com/content/product-content
+    - name: Visuals
+      url: https://polaris.shopify.com/visuals/colors
+    - name: Components
+      url: https://polaris.shopify.com/components/get-started
+    - name: Resources
+      url: https://polaris.shopify.com/resources/resources
+    - name: "-"
+    - name: Download UI Kit
+      type: file
+      url: https://github.com/Shopify/polaris/releases/download/v1.0.3/Web.UIKit.sketch
+
+- title: Lightning (Salesforce)
+  commands:
+    - name: Home
+      url: https://www.lightningdesignsystem.com/
+    - name: Guidelines
+      url: https://www.lightningdesignsystem.com/guidelines/overview/
+    - name: Components
+      url: https://www.lightningdesignsystem.com/components-overview/
+    - name: Icons
+      url: https://www.lightningdesignsystem.com/icons/
+    - name: Downloads
+      url: https://www.lightningdesignsystem.com/downloads/
+    - name: "-"
+    - name: Download UI Kit
+      type: file
+      url: https://github.com/salesforce-ux/design-system-ui-kit/raw/master/sketch-ui-kit.sketch
+
+- title: Fluent (Microsoft)
+  commands:
+  - name: Home
+    url: http://fluent.microsoft.com/
+  - name: Layout
+    url: https://docs.microsoft.com/windows/uwp/layout/index
+  - name: Style
+    url: https://docs.microsoft.com/windows/uwp/style/index
+  - name: Controls and Patterns
+    url: https://docs.microsoft.com/windows/uwp/controls-and-patterns/index
+  - name: Input and Devices
+    url: https://docs.microsoft.com/windows/uwp/input-and-devices/index
+  - name: Usability
+    url: https://docs.microsoft.com/windows/uwp/usability/index
+  - name: Downloads
+    url: https://docs.microsoft.com/windows/uwp/design-downloads/index
+  - name: "-"
+  - name: Download UI Kit
+    type: zip
+    url: http://download.microsoft.com/download/B/4/C/B4C6B0B9-C8BC-4CE2-A833-DCE89399060E/Sketch%20design%20toolkit%20for%20UWP%20apps%20v1705.zip
+
+- title: Clarity (VMWare)
+  commands:
+    - name: Home
+      url: https://vmware.github.io/clarity/
+    - name: Get Started
+      url: https://vmware.github.io/clarity/get-started
+    - name: Documentation
+      url: https://vmware.github.io/clarity/documentation
+    - name: "-"
+    - name: Download UI Kit
+      type: file
+      url: https://vmware.github.io/clarity/assets/images/sketchTemplates/Clarity-Template-0.9.0.sketch
+
+- title: Carbon (IBM)
+  commands:
+    - name: Home
+      url: http://carbondesignsystem.com/
+
+# https://developer.apple.com/design/
+
+# https://atlassian.design/
