@@ -1,17 +1,40 @@
 
-- title: Material Design (Google)
+- title: Google Material Design
   commands:
     - name: Home
       url: https://material.io/
-    - name: Guide Lines
+    - name: Guidelines
       url: https://material.io/guidelines/
+    - name: Motion
+      url: https://material.io/guidelines/motion/material-motion.html
+    - name: Style
+      url: https://material.io/guidelines/style/color.html
+    - name: Layout
+      url: https://material.io/guidelines/layout/principles.html
+    - name: Components
+      url: https://material.io/guidelines/components/bottom-navigation.html
+    - name: Growth & communications
+      url: https://material.io/guidelines/growth-communications/introduction.html
+    - name: Usability
+      url: https://material.io/guidelines/usability/accessibility.html
+    - name: Platforms
+      url: https://material.io/guidelines/platforms/platform-adaptation.html
+    - name: Resources
+      url: https://material.io/guidelines/resources/color-palettes.html
+    - name: "-"
     - name: Icons
       url: https://material.io/icons/
+    - name: Roboto Fonts
+      url: https://github.com/google/roboto/releases
+    - name: Noto Fonts
+      url: https://www.google.com/get/noto/
+    - name: Noto CJK Fonts
+      url: https://github.com/googlei18n/noto-cjk
     - name: "-"
-    - name: Download UI Kit
-      url: https://storage.googleapis.com/material-design/publish/material_v_11/assets/0Bzhp5Z4wHba3U1JmRzdsNlo5NTQ/stickersheet_components_20170314.sketch
+    - name: UI Kit
+      url: https://material.io/guidelines/resources/sticker-sheets-icons.html
 
-- title: Polaris (Shopify)
+- title: Shopify Polaris
   commands:
     - name: Home
       url: https://polaris.shopify.com/
@@ -26,11 +49,10 @@
     - name: Resources
       url: https://polaris.shopify.com/resources/resources
     - name: "-"
-    - name: Download UI Kit
-      type: file
-      url: https://github.com/Shopify/polaris/releases/download/v1.0.3/Web.UIKit.sketch
+    - name: UI Kit
+      url: https://github.com/Shopify/polaris/releases
 
-- title: Lightning (Salesforce)
+- title: Salesforce Lightning
   commands:
     - name: Home
       url: https://www.lightningdesignsystem.com/
@@ -43,11 +65,10 @@
     - name: Downloads
       url: https://www.lightningdesignsystem.com/downloads/
     - name: "-"
-    - name: Download UI Kit
-      type: file
-      url: https://github.com/salesforce-ux/design-system-ui-kit/raw/master/sketch-ui-kit.sketch
+    - name: UI Kit
+      url: https://github.com/salesforce-ux/design-system-ui-kit
 
-- title: Fluent (Microsoft)
+- title: Microsoft Fluent
   commands:
   - name: Home
     url: http://fluent.microsoft.com/
@@ -64,11 +85,10 @@
   - name: Downloads
     url: https://docs.microsoft.com/windows/uwp/design-downloads/index
   - name: "-"
-  - name: Download UI Kit
-    type: zip
-    url: http://download.microsoft.com/download/B/4/C/B4C6B0B9-C8BC-4CE2-A833-DCE89399060E/Sketch%20design%20toolkit%20for%20UWP%20apps%20v1705.zip
+  - name: UI Kit
+    url: https://docs.microsoft.com/windows/uwp/design-downloads/index
 
-- title: Clarity (VMWare)
+- title: VMWare Clarity
   commands:
     - name: Home
       url: https://vmware.github.io/clarity/
@@ -77,15 +97,77 @@
     - name: Documentation
       url: https://vmware.github.io/clarity/documentation
     - name: "-"
-    - name: Download UI Kit
-      type: file
-      url: https://vmware.github.io/clarity/assets/images/sketchTemplates/Clarity-Template-0.9.0.sketch
+    - name: UI Kit
+      url: https://vmware.github.io/clarity/get-started#designResources
 
 - title: Carbon (IBM)
   commands:
     - name: Home
       url: http://carbondesignsystem.com/
+    - name: Guidelines
+      url: http://carbondesignsystem.com/guidelines/accessibility
+    - name: Style
+      url: http://carbondesignsystem.com/style/colors/swatches
+    - name: Components
+      url: http://carbondesignsystem.com/components/accordion/code
+    - name: Resources
+      url: http://carbondesignsystem.com/resources
+    - name: "-"
+    - name: UI Kit
+      url: https://github.com/carbon-design-system/carbon-design-kit
 
-# https://developer.apple.com/design/
+- title: IBM Design Language
+  commands:
+    - name: Home
+      url: https://www.ibm.com/design/language/
+    - name: Experience
+      url: https://www.ibm.com/design/language/experience/
+    - name:
+      url: https://www.ibm.com/design/language/resources/
 
-# https://atlassian.design/
+- title: Apple
+  commands:
+    - name: iOS Human Interface Guidelines
+      url: https://developer.apple.com/ios/human-interface-guidelines/
+    - name: macOS Human Interface Guidelines
+      url: https://developer.apple.com/library/prerelease/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/
+    - name: watchOS Human Interface Guidelines
+      url: https://developer.apple.com/watch/human-interface-guidelines/
+    - name: tvOS Human Interface Guidelines
+      url: https://developer.apple.com/tvos/human-interface-guidelines/
+    - name: "-"
+    - name: Fonts
+      url: https://developer.apple.com/fonts/
+    - name: Designing Accessories
+      url: https://developer.apple.com/accessories/
+    - name: "-"
+    - name: iOS UI Kit
+      url: https://developer.apple.com/ios/human-interface-guidelines/resources/
+    - name: watchOS UI kit
+      url: https://developer.apple.com/watchos/human-interface-guidelines/resources/
+
+- title: Atlassian Design
+  commands:
+    - name: Home
+      url: https://atlassian.design/
+    - name: Brand
+      url: https://atlassian.design/guidelines/brand/personality
+    - name: Marketing
+      url: https://atlassian.design/guidelines/marketing/overview
+    - name: Product
+      url: https://atlassian.design/guidelines/product/overview
+
+- title: Ant Design
+  commands:
+    - name: Home
+      url: https://ant.design/
+    - name: Guidelines
+      url: https://ant.design/docs/spec/introduce
+    - name: "-"
+    - name: 首页
+      url: https://ant.design/index-cn
+    - name: 指引
+      url: https://ant.design/docs/spec/introduce-cn
+    - name: "-"
+    - name: UI Kit
+      url: https://ant.design/docs/resource/download
