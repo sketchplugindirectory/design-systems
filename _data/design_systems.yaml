@@ -100,7 +100,7 @@
     - name: UI Kit
       url: https://vmware.github.io/clarity/get-started#designResources
 
-- title: Carbon (IBM)
+- title: IBM Carbon
   commands:
     - name: Home
       url: http://carbondesignsystem.com/
@@ -171,3 +171,33 @@
     - name: "-"
     - name: UI Kit
       url: https://ant.design/docs/resource/download
+
+- title: 支付宝应用
+  commands:
+    - name: 设计规范
+      url: https://design.alipay.com/
+    - name: "-"
+    - name: 设计模版
+      url: https://design.alipay.com/resource
+
+- title: 微信 WeUI
+  commands:
+    - name: 小程序设计规范
+      url: https://mp.weixin.qq.com/debug/wxadoc/design/index.html
+    - name: 组件
+      url: https://weui.io/
+    - name: "-"
+    - name: 控件模版
+      url: https://github.com/weui/weui-design
+
+- title: Element
+  commands:
+    - name: 主页
+      url: http://element.eleme.io/
+    - name: 指南
+      url: http://element.eleme.io/#/zh-CN/guide/design
+    - name: 组件
+      url: http://element.eleme.io/#/zh-CN/component/installation
+    - name: 资源
+      url: http://element.eleme.io/#/zh-CN/resource
+

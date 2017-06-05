@@ -1,0 +1,12 @@
+
+-   title: v3.0
+    description: Add Support Sketch 45 plugin update system.
+    pubDate: Mon, 05 Jun 2017 04:59:19 GMT
+    version: 3.0
+    commitID: be4bba73329e48256056b08f370986f645f4b3f0
+
+-   title: v2.0
+    description: Fix memu list auto update.
+    pubDate: Tue, 16 May 2017 01:57:10 GMT
+    version: 2.0
+    commitID: 2e527a3d3bb27afeeebc6433d0215a4e6bc86d01
