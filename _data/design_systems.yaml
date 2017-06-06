@@ -201,3 +201,14 @@
     - name: 资源
       url: http://element.eleme.io/#/zh-CN/resource
 
+- title: HP Grommet
+  commands:
+    - name: Home
+      url: https://grommet.github.io/
+    - name: Learn
+      url: https://grommet.github.io/docs/learn
+    - name: Components
+      url: https://grommet.github.io/docs/components
+    - name: "-"
+    - name: Resources
+      url: https://grommet.github.io/docs/resources
