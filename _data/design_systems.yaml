@@ -22,7 +22,7 @@
     - name: Resources
       url: https://material.io/guidelines/resources/color-palettes.html
     - name: "-"
-    - name: Icons
+    - name: Icons (SVG, Font)
       url: https://material.io/icons/
     - name: Roboto Fonts
       url: https://github.com/google/roboto/releases
@@ -157,7 +157,7 @@
     - name: Product
       url: https://atlassian.design/guidelines/product/overview
 
-- title: Ant Design
+- title: Alibaba Ant Design
   commands:
     - name: Home
       url: https://ant.design/
@@ -212,3 +212,112 @@
     - name: "-"
     - name: Resources
       url: https://grommet.github.io/docs/resources
+
+- title: Blueprint
+  commands:
+    - name: Home
+      url: http://blueprintjs.com/
+    - name: Documentation
+      url: http://blueprintjs.com/docs/
+    - name: "-"
+    - name: Icon (SVG)
+      url: https://github.com/palantir/blueprint/tree/master/resources/icons
+    - name: UI Kit
+      url: https://github.com/palantir/blueprint/tree/master/resources/sketch
+
+- title: Co-op Design manual
+  commands:
+    - name: Home
+      url: https://coop-design-manual.herokuapp.com/
+    - name: Design Assets
+      url: https://github.com/coopdigital/coop-design-assets/
+
+- title: U.S. Web Design Standards
+  commands:
+    - name: Home
+      url: https://standards.usa.gov/
+    - name: UI components
+      url: https://standards.usa.gov/components/
+    - name: Download
+      url: https://standards.usa.gov/getting-started/designers/
+
+- title: Sky Toolkit
+  commands:
+    - name: Home
+      url: https://www.sky.com/toolkit
+    - name: UI Kit
+      url: https://www.sky.com/toolkit/resources
+
+- title: SAP Fiori Design Guidelines
+  commands:
+    - name: Home
+      url: https://experience.sap.com/fiori-design/
+
+- title: Marvel Style Guide
+  commands:
+    - name: Home
+      url: https://marvelapp.com/styleguide/overview/introduction
+
+- title: Office UI Fabric
+  commands:
+    - name: Home
+      url: https://dev.office.com/fabric
+    - name: Style
+      url: https://dev.office.com/fabric#/styles
+    - name: Components
+      url: https://dev.office.com/fabric#/components
+
+- title: Mixpanel Design
+  commands:
+    - name: Style Guide
+      url: http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/
+
+- title: Lonely Planet Rizzo
+  commands:
+    - name: Design Elements
+      url: http://rizzo.lonelyplanet.com/styleguide/design-elements/colours
+    - name: UI Commponetns
+      url: http://rizzo.lonelyplanet.com/styleguide/ui-components/cards
+
+- title: Lost My Name Design System
+  commands:
+    - name: Home
+      url: http://design-system.lostmy.name/
+
+- title: Mailchimp Patterns
+  commands:
+    - name: Home
+      url: http://ux.mailchimp.com/patterns
+
+- title: Louder Than Ten
+  commands:
+    - name: Manual
+      url: https://louderthanten.com/manual/
+
+- title: BBC Global Experience Language
+  commands:
+    - name: Home
+      url: http://www.bbc.co.uk/gel
+
+- title: Oracle Alta UI
+  commands:
+    - name: Home
+      url: http://www.oracle.com/webfolder/ux/middleware/alta/index.html
+
+- title: Nordnet Brand
+  commands:
+    - name: Home
+      url: https://www.nordnet.se/brand/
+
+- title: Yelp Styleguide
+  commands:
+    - name: Web
+      url: https://www.yelp.com/styleguide
+    - name: Mobile Apps
+      url: https://www.yelp.com/styleguide/mobile
+    - name: Color
+      url: https://www.yelp.com/styleguide/color
+    - name: Illustration
+      url: https://www.yelp.com/styleguide/illustrations
+    - name: Brand
+      url: https://www.yelp.com/brand
